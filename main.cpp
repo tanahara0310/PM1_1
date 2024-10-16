@@ -3,6 +3,6 @@
 int main() {
 
 	printf("Hello GitWorld\n");
-    printf("Hello firstWorld\n");
+    printf("è’ìÀÇ≥ÇπÇ‹Ç∑\n");
 	return 0;
 }
