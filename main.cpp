@@ -3,6 +3,6 @@
 int main() {
 
 	printf("Hello GitWorld\n");
-    printf("衝突します\n");
+    printf("コンフリクト修正しました\n");
 	return 0;
 }
